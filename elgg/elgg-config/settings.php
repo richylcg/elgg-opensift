@@ -45,7 +45,7 @@ $CONFIG->dataroot = "E:\wamp64\www\data";
  *
  * @global string $CONFIG->wwwroot
  */
-$CONFIG->wwwroot = "http://localhost/elgg/";
+$CONFIG->wwwroot = "http://elggphp-phpweb.1d35.starter-us-east-1.openshiftapps.com/elgg/";
 
 /**
  * The database username
